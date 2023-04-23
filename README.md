@@ -31,7 +31,7 @@ Sınıflandırma problemini aşağıdaki adımlarla gerçekleştirdik:
 
 Proje için kullandığımız veri seti, aşağılayıcı söylemleri doğal dil işleme yöntemleri ile tespit etmek için kullandığımız **teknofest_train_final.csv** veri setidir.
 
-Veri setinde belirlenecek durum, bir metinde aşağılayıcı söylem olup olmadığı durumudur. Yani 0 veya 1 olarak tahmin edilmelidir. Ayrıca aşağılayıcı söylem tahmin ediliyorsa bu söylem dökümünün verilen alt yapısı da (CİNSİYETÇİ, IRKÇI, KÜFÜR, KÜÇÜK) belirlenmelidir.
+Veri setinde belirlenecek durum, bir metinde aşağılayıcı söylem olup olmadığı durumudur. Yani 0 veya 1 olarak tahmin edilmelidir. Ayrıca aşağılayıcı söylem tahmin ediliyorsa bu söylem dökümünün verilen alt yapısı da (CİNSİYETÇİ, IRKÇI, KÜFÜR, AŞAĞILAYICI) belirlenmelidir.
 
 ### 3.Adım: Preprocessing İşlemleri
 
